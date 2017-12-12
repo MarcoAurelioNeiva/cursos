@@ -18,6 +18,6 @@
 	<button type="submit">Enviar</button>
 </form>
 <p>Outras formas de contatos:</p>
-<p>contato@gmail.com</p>
-<p>contato@hotmail.com</p>
+<p>E-mail: contato@gmail.com</p>
+<p>E-mail: contato@hotmail.com</p>
 <p>telefone: 4002-8922</p>
