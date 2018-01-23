@@ -46,7 +46,12 @@ ol,ul,li{
 }
 /* ------------------ */
 .conteudo_principal{
-	padding: 
+	padding-bottom: 65px;
+}
+.cursos{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .cursos figure{
 	
